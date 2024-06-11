@@ -997,3 +997,6 @@ vendors:
 css: css
 js: js
 images: images
+
+#live2d:
+#  enable: true
